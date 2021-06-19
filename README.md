@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandre-CL
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning Git/Github
+- 🌱 I’m currently learning C#
 - 📫 You can reach me at alexandrelopes.gomail@gmail.com...
 
 <!---
